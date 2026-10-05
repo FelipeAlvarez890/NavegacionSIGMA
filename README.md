@@ -12,6 +12,8 @@
 
 - Tareas y nueva tarea: por ahora paginas vacias.
 
+- Navegacion: con un Stack, al abrir una pantalla, esta se apila a la anterior y muestra un boton para volver. Al tocarlo se retira la pantalla actual y se vuelve a la anterior.
+
 ## Capturas
 
 ### Inicio

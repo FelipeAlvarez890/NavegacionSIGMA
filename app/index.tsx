@@ -4,8 +4,7 @@ import { Pressable, StyleSheet, Text, View } from 'react-native';
 export default function Inicio() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>SIGMA</Text>
-      <Text style={styles.subtitle}>Gestión de mantenimiento</Text>
+      <Text style={styles.title}>SIGMA</Text>      
 
       <Link href="/equipos" asChild>
         <Pressable style={styles.button}>

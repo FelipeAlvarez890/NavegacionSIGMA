@@ -3,8 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function NuevaTarea() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Nueva tarea</Text>
-      <Text>Aquí irá el formulario para crear una tarea.</Text>
+      <Text style={styles.title}>Nueva tarea</Text>      
     </View>
   );
 }

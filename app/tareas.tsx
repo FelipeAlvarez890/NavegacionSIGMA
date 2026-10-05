@@ -4,7 +4,7 @@ export default function Tareas() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Tareas</Text>
-      <Text>OT-104 - Revisar bomba de agua</Text>
+      <Text>Tarea ejemplo</Text>
     </View>
   );
 }
